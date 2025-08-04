@@ -1,90 +1,84 @@
 Machine Learning Approach to Predict Student Dropout and Academic Achievement
-
-
-Prepared by: Mfuranzima Nadette
-
+👤 Prepared by:
+Name: Mfuranzima Nadette
 Student ID: 22831
-
 Faculty: Faculty of Information Technology
-
 Department: Software Engineering
-
 Course: INSY 8413 | Introduction to Big Data Analytics
-
 Assistant Lecturer: Eric Maniraguha
-
-Academic Year: 2024-2025, Semester III
-
-Exam Date:04,08,2025
-
+Academic Year: 2024–2025, Semester III
+Exam Date: August 4, 2025
 Group: A
 
+📌 Overview
+This project applies machine learning techniques to analyze and predict student dropout rates and academic achievement. By examining academic, demographic, and socio-economic data, it identifies key factors influencing student retention and supports data-driven interventions for improving success rates.
 
-Overview
-This project applies machine learning techniques to analyze and predict student dropout rates and academic achievement. By examining academic, demographic, and socio-economic data, the goal is to identify key factors influencing student retention and support interventions to improve success rates.
-
-Part 1: Problem Definition & Planning
-Sector Selection
+🧩 Part 1: Problem Definition & Planning
+🎯 Sector Selection
 Sector: Education
 
-(Add your sector selection share link here if available)
+(Sector share link placeholder if needed)
 
-Problem Statement
-The project aims to answer:
-"Can we detect patterns and factors contributing to student dropout and academic achievement using Big Data Analytics?"
+❓ Problem Statement
+Can we detect patterns and factors contributing to student dropout and academic achievement using Big Data Analytics?
 
-Dataset Identification
+📊 Dataset Identification
 Dataset Title: Student Dropout Dataset
 
-Source Link: ('https://archive.ics.uci.edu/static/public/697/predict+students+dropout+and+academic+success.zip')
+Source Link: UCI Repository
 
-Data Structure: Structured (CSV/Excel)
+Data Structure: ✅ Structured (CSV/Excel)
 
-Data Status: Requires Preprocessing
+Data Status: ⚠️ Requires Preprocessing
 
-Part 2: Python Analytics Tasks
-1. Data Cleaning
-Addressed missing values, inconsistent data formats, and outliers.
+🐍 Part 2: Python Analytics Tasks
+1️⃣ Data Cleaning
+Handled missing values, outliers, and inconsistent formats
 
-Performed encoding of categorical variables and feature scaling as needed.
+Encoded categorical variables and applied scaling techniques
 
-2. Exploratory Data Analysis (EDA)
-Generated descriptive statistics.
+2️⃣ Exploratory Data Analysis (EDA)
+Computed descriptive statistics
 
-Visualized variable distributions and correlations.
+Visualized distributions and variable relationships
 
-3. Machine Learning Modeling
-Selected classification algorithms (e.g., Logistic Regression, Random Forest) for dropout prediction.
+3️⃣ Machine Learning Modeling
+Applied classification models: Logistic Regression & Random Forest
 
-Trained and validated models using the dataset.
+Trained models to predict dropout likelihood
 
-4. Model Evaluation
-Evaluated model performance with accuracy, precision, recall, and F1-score metrics.
+4️⃣ Model Evaluation
+Evaluated using Accuracy, Precision, Recall, and F1-Score
 
-5. Code Organization
-Modularized code into functions for preprocessing, modeling, and evaluation.
+Interpreted confusion matrix and feature importance
 
-Included markdown explanations and comments for clarity.
+5️⃣ Code Organization
+Structured into reusable functions
 
-6. Innovation
-Applied custom feature engineering and ensemble methods to enhance predictive accuracy.
+Included markdown annotations and inline comments
 
-Part 3: Dashboard Design (Power BI / Looker Studio)
-1. Communicating Problem & Insights
-Clearly presented problem context and data-driven insights.
+6️⃣ Innovation
+Applied ensemble learning techniques
 
-2. Interactive Elements
-Added slicers, filters, and drill-down capabilities for dynamic data exploration.
+Engineered new features to enhance predictive power
 
-3. Visualizations
-Implemented pie charts, bar charts, line charts, and tables aligned with analytical goals.
+ Part 3: Dashboard Design (Looker Studio)
+ 1. Problem & Insight Communication
+Described context and summarized findings from analysis
 
-4. Design & Usability
-Maintained consistent colors, clear labeling, and an intuitive layout.
+🔍 2. Interactive Features
+Added slicers, dropdowns, and drill-down capabilities
 
-5. Advanced Features
-Integrated calculated fields, navigation buttons, and AI-inspired visuals to enhance user experience.
+📈 3. Visualizations
+Included pie charts, bar charts, and tables for clarity
 
+Highlighted key insights such as dropout proportions and feature distributions
+
+🎨 4. Design Clarity
+Maintained consistent color themes and clear labeling
+
+🧠 5. Advanced Features
+Used calculated fields, navigation buttons, and AI visuals
 Repository Contents
 cleaneed data https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/cleaned_student_data.csv
 Python Notebooks: Code for data cleaning, EDA, modeling, and evaluation.

@@ -84,5 +84,4 @@ Dashboard Files:  Looker Studio report links for interactive visualization.https
 Documentation: This README and additional project documentation.
 
 Screenshots
-(Insert screenshots of key findings, model results, and dashboard views here)
-
+https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/distribution-of-admssion-grade.png

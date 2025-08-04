@@ -27,8 +27,6 @@ Part 1: Problem Definition & Planning
 Sector Selection
 Sector: Education
 
-(Add your sector selection share link here if available)
-
 Problem Statement
 The project aims to answer:
 "Can we detect patterns and factors contributing to student dropout and academic achievement using Big Data Analytics?"
@@ -102,6 +100,6 @@ https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/mai
 https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/distribution-of-curricular-unit-1st-sem.png
 https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/distribution-of-curricular-units-2nd-sem.png
 https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/features-for-dropout-prediction.png
- can you arrage my readme me in professional way 
+  
 
 

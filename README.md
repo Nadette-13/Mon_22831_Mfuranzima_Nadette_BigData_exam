@@ -1,4 +1,6 @@
 Machine Learning Approach to Predict Student Dropout and Academic Achievement
+
+
 Prepared by: Mfuranzima Nadette
 Student ID: 22831
 Faculty: Faculty of Information Technology
@@ -76,6 +78,7 @@ Maintained consistent colors, clear labeling, and an intuitive layout.
 Integrated calculated fields, navigation buttons, and AI-inspired visuals to enhance user experience.
 
 Repository Contents
+cleaneed data https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/cleaned_student_data.csv
 Python Notebooks: Code for data cleaning, EDA, modeling, and evaluation.
 https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/dropout_prediction.ipynb
 

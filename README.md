@@ -77,6 +77,7 @@ Integrated calculated fields, navigation buttons, and AI-inspired visuals to enh
 
 Repository Contents
 Python Notebooks: Code for data cleaning, EDA, modeling, and evaluation.
+https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/dropout_prediction.ipynb
 
 Dashboard Files:  Looker Studio report links for interactive visualization.https://lookerstudio.google.com/reporting/39e94960-c08f-4160-b78b-91f03bc103c4
 

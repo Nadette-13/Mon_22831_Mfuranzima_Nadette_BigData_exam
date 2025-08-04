@@ -85,3 +85,5 @@ Documentation: This README and additional project documentation.
 
 Screenshots
 https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/distribution-of-admssion-grade.png
+https://github.com/Nadette-13/Mon_22831_Mfuranzima_Nadette_BigData_exam/blob/main/confusion-matrix.png
+

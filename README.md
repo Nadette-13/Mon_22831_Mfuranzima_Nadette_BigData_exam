@@ -2,13 +2,21 @@ Machine Learning Approach to Predict Student Dropout and Academic Achievement
 
 
 Prepared by: Mfuranzima Nadette
+
 Student ID: 22831
+
 Faculty: Faculty of Information Technology
+
 Department: Software Engineering
+
 Course: INSY 8413 | Introduction to Big Data Analytics
+
 Assistant Lecturer: Eric Maniraguha
+
 Academic Year: 2024-2025, Semester III
+
 Exam Date:04,08,2025
+
 Group: A
 
 
